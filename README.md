@@ -1,4 +1,7 @@
-Tag Me: A tagged tweet notifier
+#Ballerina-TagMe
+
+software which notify you with sms, when you're tagged on twitter
+
 
 Introduction:
 Most of the twitter users will not be notified immediately when someone tagged him/her in a tweet.
